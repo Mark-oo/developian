@@ -1,3 +1,3 @@
 # developian
 
-/craft je sam projekat , a /testje  plugin 
+/craft je sam projekat , a /test je  plugin 
