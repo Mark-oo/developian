@@ -1,0 +1,41 @@
+{
+    "name": "marko/craft-developian-test",
+    "description": "description",
+    "type": "craft-plugin",
+    "version": "1",
+    "keywords": [
+        "craft",
+        "cms",
+        "craftcms",
+        "craft-plugin",
+        "craft-developian-test"
+    ],
+    "support": {
+        "docs": "https://github.com/https://github.com/Mark-oo/craft-developian-test/blob/master/README.md",
+        "issues": "https://github.com/https://github.com/Mark-oo/craft-developian-test/issues"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "marko knezevic",
+            "homepage": "https://github.com/Mark-oo"
+        }
+    ],
+    "require": {
+        "craftcms/cms": "^3.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+          "marko\\craftdevelopiantest\\": "src/"
+        }
+    },
+    "extra": {
+        "name": "craft-developian-test",
+        "handle": "craft-developian-test",
+        "developer": "marko knezevic",
+        "developerUrl": "https://github.com/Mark-oo",
+        "documentationUrl": "https://github.com/https://github.com/Mark-oo/craft-developian-test/blob/master/README.md",
+        "changelogUrl": "https://raw.githubusercontent.com/https://github.com/Mark-oo/craft-developian-test/master/CHANGELOG.md",
+        "class": "marko\\craftdevelopiantest\\Craftdevelopiantest"
+    }
+}

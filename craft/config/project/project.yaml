@@ -1,0 +1,27 @@
+dateModified: 1665999904
+email:
+  fromEmail: mark44knezevic@gmail.com
+  fromName: 'Marko Test'
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    990e49db-8442-4ea7-be1e-57c804dcb427: Common # Common
+    d5dc538a-153b-4244-b367-4cc4de83b8f7: 'Marko Test' # Marko Test
+    d7ca8a58-1092-4316-80a7-e3caddaa79f5: 'Marko Test' # Marko Test
+plugins:
+  craft-developian-test:
+    edition: standard
+    enabled: true
+    schemaVersion: '1'
+system:
+  edition: solo
+  live: true
+  name: 'Marko Test'
+  schemaVersion: 3.7.33
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true
